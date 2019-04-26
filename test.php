@@ -1,3 +1,3 @@
 <?php
-echo info.php();
+echo hello;
 ?>
